@@ -1,0 +1,6 @@
+{
+  "name": "KURA — Coffee & Slow Hours",
+  "description": "An immersive digital moodboard and cinematic experience for KURA, an independent café and evening listening bar in Surat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
